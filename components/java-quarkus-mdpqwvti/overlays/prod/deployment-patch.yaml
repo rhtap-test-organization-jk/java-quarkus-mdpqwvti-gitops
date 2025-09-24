@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/rhtap-test-organization-jk/java-quarkus-mdpqwvti:99f855b7233fc4070d1287678bf153be5c02f00c@sha256:b066fc12e51a692d250358fe730816e794fffaa427855801f0880d24ad9f4793
         name: container-image  
